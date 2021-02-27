@@ -6,6 +6,8 @@ O Moove (Movit) é um aplicativo que utiliza a técnica de [pomodoro](http://htt
 
 [![2.png](https://gustavosouza.site/nwl4/images/2021/02/26/2.png)](https://gustavosouza.site/nwl4/image/oA0)
 
+
+
 #### Tecnologias e ferramentas utilizadas 🚀
 
 - [ReactJs](https://pt-br.reactjs.org/ "ReactJs")
@@ -29,5 +31,8 @@ $ cd moove
 $ yarn install
 
 # Rode o aplicação, com o comando:
-$ yarn dev```
+$ yarn dev
+
+------------
+
 
