@@ -1,6 +1,6 @@
 ![moove-1.png](https://gustavosouza.site/nwl4/images/2021/02/26/moove-1.png)
 
-O Moove (Movit) é um aplicativo que utiliza a técnica de [pomodoro](http://https://pt.wikipedia.org/wiki/T%C3%A9cnica_pomodoro "pomodoro"), propondo desafios durante o seu trabalho para melhorar o foco e a rodutividade. Desenvolvido durante o evento da NLW#4 da Rocketseat.
+O Moove (Movit) é um aplicativo que utiliza a técnica de [pomodoro](http://https://pt.wikipedia.org/wiki/T%C3%A9cnica_pomodoro "pomodoro"), propondo desafios durante o seu trabalho para melhorar o foco e a produtividade. Desenvolvido durante o evento da NLW#4 da Rocketseat.
 
 [![1.png](https://gustavosouza.site/nwl4/images/2021/02/26/1.png)](https://gustavosouza.site/nwl4/image/kLK)
 
