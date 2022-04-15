@@ -1,7 +1,5 @@
 # Projeto 🚀
 
-[![moveit.png](https://gustavosouza.dev.br/images/images/2021/04/10/moveit.png)](https://gustavosouza.dev.br/images/image/mpo)
-
 O Moove aplicativo que utiliza a técnica de [pomodoro](http://https://pt.wikipedia.org/wiki/T%C3%A9cnica_pomodoro "pomodoro"), propondo desafios durante o seu trabalho para melhorar o foco e a produtividade. Desenvolvido durante o evento da NLW#4 da Rocketseat.
 
 
