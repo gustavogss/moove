@@ -14,17 +14,6 @@ O Moove aplicativo que utiliza a técnica de [pomodoro](http://https://pt.wikipe
 - [VS Code](https://code.visualstudio.com/ "VS Code") 
 
 
-## Layout 🖼️ 
-[![100e7ec79eae1b874.md.png](https://gustavosouza.dev.br/images/images/2021/04/10/100e7ec79eae1b874.md.png)](https://gustavosouza.dev.br/images/image/eRL)
-[![22ef24fca75673870.md.png](https://gustavosouza.dev.br/images/images/2021/04/10/22ef24fca75673870.md.png)](https://gustavosouza.dev.br/images/image/Crx)
-[![3bab3a663f2603ae1.md.png](https://gustavosouza.dev.br/images/images/2021/04/10/3bab3a663f2603ae1.md.png)](https://gustavosouza.dev.br/images/image/2o3)
-[![4507ab0067967a10b.md.png](https://gustavosouza.dev.br/images/images/2021/04/10/4507ab0067967a10b.md.png)](https://gustavosouza.dev.br/images/image/0wI)
-
-## Deploy 🎮
-- Foco na produtividade:
-
- ▶ [Moove] https://moveit-beige-one.vercel.app/
-
 ## Instalação e uso 🔌
 
 ```javascript
